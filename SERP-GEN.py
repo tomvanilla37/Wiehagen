@@ -1,5 +1,6 @@
 from tkinter import *
 
+#TEST: DIESER KOMMENTAR WURDE IN PYCHARM GETÄTIGT UND ZU GIT COMMITED!
 
 Fenster = Tk()
 Fenster.title('SERG-Gen by Wiehagener Pythoneers')
